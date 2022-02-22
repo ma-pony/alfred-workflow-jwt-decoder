@@ -48,7 +48,7 @@ class WorkFlow:
                 verify=False
             )
         except Exception as e:
-            self.add_item("Error", str(e), "", "", ICON_ERROR)
+            self.add_item(str(e), "Error", "", "", ICON_ERROR)
         else:
             for key, value in res.items():
                 value = str(value)
