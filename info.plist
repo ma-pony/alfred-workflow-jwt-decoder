@@ -120,7 +120,11 @@
 			<integer>105</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>0.0.1</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/ma-pony/alfred-workflow-jwt-decoder</string>
 </dict>
 </plist>
