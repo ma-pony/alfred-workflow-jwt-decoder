@@ -1,6 +1,7 @@
 # alfred-workflow-jwt-decoder
 alfred workflow jwt decoder
-<img width="1180" alt="image" src="https://user-images.githubusercontent.com/38464007/155059618-976fd6f1-0c2d-4c68-a9dc-41d9fcf3f72c.png">
+<img width="1180" alt="image" src="https://user-images.githubusercontent.com/38464007/155059708-5d6254a6-dd4c-476c-816a-d09854c377b9.png">
+
 
 
 # 环境要求
